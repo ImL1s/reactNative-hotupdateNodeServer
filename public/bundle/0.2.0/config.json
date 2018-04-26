@@ -1,0 +1,8 @@
+{
+    "reactNativeVersion": "0.2.0",
+    "minAppVersion": "1.0.0",
+    "updateDate": "2018-04-26",
+    "changeLog": [
+        "- 更改ReactNative首頁顯示文字"
+    ]
+}

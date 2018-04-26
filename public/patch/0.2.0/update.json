@@ -1,0 +1,15 @@
+{
+    "availableVersion": "0.2.0",
+    "minAppVersion": "1.0.0",
+    "patches": [
+        {
+            "targetVersion": "0.1.0",
+            "updateDate": "2018-04-26",
+            "changeLog": [
+                "- 更改ReactNative首頁顯示文字"
+            ]
+        }
+    ],
+    "androidBundleMd5": "bfb5afa697119970ddb6ef8182e42b53",
+    "iosBundleMd5": "bfb5afa697119970ddb6ef8182e42b53"
+}

@@ -1,0 +1,16 @@
+{
+    "lastVersion": {
+        "version": "0.2.0",
+        "minNativeVersion": "1.0.0"
+    },
+    "versionList": [
+        {
+            "version": "0.2.0",
+            "minNativeVersion": "1.0.0"
+        },
+        {
+            "version": "0.1.0",
+            "minNativeVersion": "1.0.0"
+        }
+    ]
+}

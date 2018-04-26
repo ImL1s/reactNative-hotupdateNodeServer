@@ -1,0 +1,38 @@
+{
+    "ex1": {
+        "status": "success",
+        "msg": "可以升级，bundle最新版为0.3.0",
+        "latestBundleV": "0.3.0",
+        "latestAppMinV": "4.0.0",
+        "availableUpdate": true,
+        "availableUpdateBundleVersion": "0.3.0",
+        "availableUpdateAppMinVersion": "4.0.0",
+        "patchUrl": "patch/0.3.0/ios/0.2.0-0.3.0.zip",
+        "platform": "ios"
+    },
+    "ex2": {
+        "status": "success",
+        "msg": "无需升级，已经是最新版本",
+        "canUpdate": false,
+        "platform": "ios"
+    },
+    "ex3": {
+        "status": "success",
+        "msg": "可以升级，但app版本3.0.0太低，只能升到bundleV0.2.0，bundleV最新为0.3.0",
+        "latestBundleV": "0.3.0",
+        "latestAppMinV": "4.0.0",
+        "availableUpdate": true,
+        "availableUpdateBundleVersion": "0.2.0",
+        "availableUpdateAppMinVersion": "3.0.0",
+        "patchUrl": "patch/0.2.0/ios/0.1.0-0.2.0.zip",
+        "platform": "ios"
+    },
+    "ex4":{
+        "status": "success",
+        "msg": "不能升级，当前已经是app3.0.0的最新bundle了，但不是最新bundle0.3.0，想升级bundle到最新，请先升级app",
+        "latestBundleV": "0.3.0",
+        "latestAppMinV": "4.0.0",
+        "availableUpdate": false,
+        "platform": "ios"
+    }
+}
