@@ -1,16 +1,22 @@
 {
     "lastVersion": {
         "version": "0.2.0",
-        "minNativeVersion": "1.0.0"
+        "minNativeVersion": "1.0.0",
+        "androidPatchURL": "/patch/0.2.0/android/",
+        "iosPatchURL": "/patch/0.2.0/ios/"
     },
     "versionList": [
         {
             "version": "0.2.0",
-            "minNativeVersion": "1.0.0"
+            "minNativeVersion": "1.0.0",
+            "androidPatchURL": "/patch/0.2.0/android/",
+            "iosPatchURL": "/patch/0.2.0/ios/"
         },
         {
             "version": "0.1.0",
-            "minNativeVersion": "1.0.0"
+            "minNativeVersion": "1.0.0",
+            "androidPatchURL": "/patch/0.2.0/android/",
+            "iosPatchURL": "/patch/0.2.0/ios/"
         }
     ]
 }
