@@ -1,8 +1,10 @@
 # React Native Hotupdate Demo File Server
 
-- [react native hotupdate demo client](https://github.com/ImL1s/reactNative-hotupdateDemo)
+## 參考
 - [React Native增量升級方案](https://www.evernote.com/l/AsBqZ6a2HQNNpZfstXH80LL476589LE-KYw)
 
+## 關聯專案
+- [react native hotupdate demo client](https://github.com/ImL1s/reactNative-hotupdateDemo)
 
 ## 注意
 
