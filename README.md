@@ -24,8 +24,9 @@
         babel-node index.js
 
 
-- diff指令 
+- diff指令
 
+        // bsdiff {source} {diff} {patch} (source + patch = diff)
         bsdiff bundle/0.1.0/android/index.android.bundle bundle/0.2.0/android/index.android.bundle patch/0.1.0/android/0.1.0-0.2.0.patch
 
 - react-native 打包指令
