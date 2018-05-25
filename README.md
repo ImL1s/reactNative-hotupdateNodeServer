@@ -10,6 +10,13 @@
 
 - iOS&Android的VersionName必須使用一樣的命名(做熱更新檢查Native版本用)
 
+## 安裝
+
+- bsdiff
+
+        mac:  brew install bsdiff
+        ubuntu: apt install bsdiff
+
 ## 使用
 
 - 啟動server
